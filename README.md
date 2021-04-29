@@ -7,14 +7,17 @@ Objective is to conduct a research projecton employees from a corporation from 1
 3. Data Analysis
 
 **Data Modeling**
+
 Modeling begins with sketching an ERD (Entity Relation Database) diagram of the six CSV files in order to inspect them.
 
 ![image](https://user-images.githubusercontent.com/69134400/116486934-9de15e80-a843-11eb-817a-429efb80e18e.png)
 
 **Data Engineering**
+
 Table schemas are created with accompanying data types and keys to fit the incoming CSV files. The six CSV files are then imported into the corresponding SQL table.
 
 **Data Analysis**
+
 Now with a complete database, the following tasks are performed with SQL queries:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
@@ -34,4 +37,5 @@ Now with a complete database, the following tasks are performed with SQL queries
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 **Data Visualization**
+
 The SQL database is imported into Pandas to further inspect the data. 
