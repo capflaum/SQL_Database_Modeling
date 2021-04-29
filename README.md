@@ -4,9 +4,6 @@ Objective is to conduct a research projecton employees from a corporation from 1
 
 2. Data Engineering
 
-<<<<<<< HEAD
-3. Data Analysis
-=======
 3. Data Analysis
 
 **Data Modeling**
@@ -42,4 +39,4 @@ Now with a complete database, the following tasks are performed with SQL queries
 **Data Visualization**
 
 The SQL database is imported into Pandas to further inspect the data. 
->>>>>>> 7ab80c8b04b9c64cb34e73c63324d0d102a653cd
+
