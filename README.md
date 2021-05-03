@@ -40,3 +40,10 @@ Now with a complete database, the following tasks are performed with SQL queries
 
 The SQL database is imported into Pandas to further inspect the data. 
 
+Most common salaries for employees:
+![image](https://user-images.githubusercontent.com/69134400/116920768-e57f3600-ac07-11eb-8f29-364ae49d851f.png)
+
+Average salary by title:
+![image](https://user-images.githubusercontent.com/69134400/116924450-bd460600-ac0c-11eb-8a86-4b7937a0df8b.png)
+
+
